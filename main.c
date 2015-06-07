@@ -10,7 +10,7 @@
 
 #define SLIDE_W 640
 #define SLIDE_H 480
-#define NB_SLIDES 72
+#define NB_SLIDES 67
 
 #define NB_BANKS 2
 

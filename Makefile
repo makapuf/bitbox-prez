@@ -5,6 +5,7 @@ GAME_C_FILES = main.c
 GAME_C_OPTS = -DVGAMODE_640_OVERCLOCK
 
 USE_ENGINE=1
+USE_SDCARD=1
 
 include $(BITBOX)/lib/bitbox.mk
 all: slides.btc
